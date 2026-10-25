@@ -14,7 +14,7 @@ Venue name, timings, contact number, menu items, descriptions and allergen key a
 Works from a QR code on a card, table or room
 A generic template, with the venue settings in one block at the top of the file, is planned. Essentia is the first venue built on it.
 Scan to open the menu
-<p align="center"> <img src="qr/essentia-menu-qr.png" alt="QR code for the Essentia Premier Hotel in-room dining menu" width="260"> </p>
+<p align="center"><img src="essentia-menu-qr.png" alt="QR code for the Essentia Premier Hotel in-room dining menu" width="260"> </p>
 
 A printable A6 card (qr/essentia-qr-card.pdf) is also included.
 
