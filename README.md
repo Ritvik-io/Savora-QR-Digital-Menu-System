@@ -2,7 +2,6 @@
 
 **Savora** is a mobile-first digital menu system for hotels and restaurants. Guests scan a QR code, browse the menu on their phone, and contact the venue. It is a **menu only**: there is no cart, checkout or payment.
 
-**First deployment:** Essentia Premier Hotel, Chennai: In-Room Dining Menu
 
 **Live site:** https://essentia-premier-hotel.ritviksharma119.workers.dev/
 
